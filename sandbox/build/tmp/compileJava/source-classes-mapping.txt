@@ -1,0 +1,6 @@
+ru/jst/sandbox/MyFirstClass.java
+ ru.jst.sandbox.MyFirstClass
+ru/jst/sandbox/Point.java
+ ru.jst.sandbox.Point
+ru/jst/sandbox/Distance.java
+ ru.jst.sandbox.Distance
